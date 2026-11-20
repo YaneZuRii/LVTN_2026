@@ -5,7 +5,6 @@ Repo: https://github.com/YaneZuRii/LVTN_2026
 | Thư mục | Nội dung |
 |---------|----------|
 | `video-ngonngukyhieu/` | Nhãn video VSL (`label.csv`) + hướng dẫn tải clip |
-| *(gốc repo)* `database/` | CSDL mẫu (SQL) và API PHP (LTDD) — xem lịch sử commit trên GitHub |
 
 ## Trang chủ NNKH — nhận diện landmark (MediaPipe)
 
