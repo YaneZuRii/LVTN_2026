@@ -1,0 +1,5 @@
+*.mp4
+Videos/
+Videos.zip
+.cache/
+**/.cache/
