@@ -3,3 +3,8 @@ __pycache__/
 *.pyc
 models/*.task
 .DS_Store
+*.mp4
+Videos/
+Videos.zip
+.cache/
+**/.cache/
